@@ -22,6 +22,8 @@ namespace GayApp
         {
             if (!env.IsDevelopment())
             {
+
+
                 app.UseDeveloperExceptionPage();
             }
             else
